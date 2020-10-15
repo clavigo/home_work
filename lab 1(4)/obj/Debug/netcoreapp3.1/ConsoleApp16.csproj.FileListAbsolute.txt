@@ -1,0 +1,12 @@
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.exe
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.deps.json
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.runtimeconfig.json
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.runtimeconfig.dev.json
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.dll
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.pdb
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.AssemblyInfoInputs.cache
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.AssemblyInfo.cs
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.csproj.CoreCompileInputs.cache
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.dll
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.pdb
+D:\Univer\Epam\ConsoleApp13\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.genruntimeconfig.cache

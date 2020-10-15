@@ -1,12 +1,20 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.CompilerServices;
+using System;
+using System.Numerics;
 
-namespace ConsoleApp17
+namespace ConsoleApp16
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double a;
+
+            Console.WriteLine("Введіть число: ");
+            a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Округлене число: " + Math.Round(a));
+            Console.WriteLine("Ціла частина: " + Math.Floor(a));
+            
         }
     }
 }
