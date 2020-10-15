@@ -1,0 +1,13 @@
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.exe
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.deps.json
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.json
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.dev.json
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.dll
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.pdb
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csprojAssemblyReference.cache
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfoInputs.cache
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfo.cs
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csproj.CoreCompileInputs.cache
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.dll
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.pdb
+D:\Univer\Epam\ConsoleApp13\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.genruntimeconfig.cache
