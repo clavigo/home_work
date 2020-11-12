@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Univer\\Epam\\home_work\\Дз 3\\1\\1\\1.csproj": {}
+    "D:\\Univer\\Epam\\Дз 1\\lab 1(5)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Univer\\Epam\\home_work\\Дз 3\\1\\1\\1.csproj": {
+    "D:\\Univer\\Epam\\Дз 1\\lab 1(5)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Univer\\Epam\\home_work\\Дз 3\\1\\1\\1.csproj",
-        "projectName": "1",
-        "projectPath": "D:\\Univer\\Epam\\home_work\\Дз 3\\1\\1\\1.csproj",
+        "projectUniqueName": "D:\\Univer\\Epam\\Дз 1\\lab 1(5)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\Univer\\Epam\\Дз 1\\lab 1(5)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Univer\\Epam\\home_work\\Дз 3\\1\\1\\obj\\",
+        "outputPath": "D:\\Univer\\Epam\\Дз 1\\lab 1(5)\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
