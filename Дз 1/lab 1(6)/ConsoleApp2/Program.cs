@@ -10,7 +10,7 @@ namespace ConsoleApp2
             Console.Write("Ведіть число: ");
             a = float.Parse(Console.ReadLine());
             b = (float)Math.Sqrt(Math.Ceiling(a));
-            Console.WriteLine($"{b}");
+            Console.WriteLine($"Результат: {b}");
         }
     }
 }
