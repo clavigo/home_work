@@ -27,7 +27,7 @@ namespace lab1
 
             rectangle = new Rectangle(LeftTopCoord, RightBottomCoord);
 
-            Console.WriteLine($"Rectangle area is: {rectangle.Area()} \nRectangle perimeter is: {rectangle.Perimeter()}");
+            Console.WriteLine($"Площа прямокутника: {rectangle.Area()} \nПериметр прямокутника: {rectangle.Perimeter()}");
         }
     }
 }

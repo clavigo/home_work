@@ -11,3 +11,16 @@ D:\Univer\Epam\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs
 D:\Univer\Epam\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.dll
 D:\Univer\Epam\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
 D:\Univer\Epam\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\Univer\Epam\home_work\Дз 3\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\Univer\Epam\home_work\Дз 3\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\Univer\Epam\home_work\Дз 3\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\Univer\Epam\home_work\Дз 3\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\Univer\Epam\home_work\Дз 3\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\Univer\Epam\home_work\Дз 3\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\Univer\Epam\home_work\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+D:\Univer\Epam\home_work\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\Univer\Epam\home_work\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\Univer\Epam\home_work\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\Univer\Epam\home_work\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\Univer\Epam\home_work\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\Univer\Epam\home_work\Дз 3\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
