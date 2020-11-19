@@ -8,39 +8,35 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            string[] surnames = new string[2];
-            Console.Write("Enter surnames: ");
-            surnames = Console.ReadLine().Split(',');
-            surnames = Console.ReadLine().Split(',');
+             string[] surnames;
+            Console.Write("Введіть прізвища студентів: ");
+            surnames = Console.ReadLine().Split(',') ;
 
-            if (surnames[0].Equals(surnames[1], StringComparison.InvariantCultureIgnoreCase))
+            if (surnames[0].Length == surnames[1].Length)
             {
-                Console.WriteLine("Surnames are equal");
+                Console.WriteLine("Прізвища однакової довжини");
             }
             else
             {
-                if (surnames[0].Length == surnames[1].Length)
-                {
-                    Console.WriteLine("Surnames are equal");
-                }
-                else if (surnames[0].Length > surnames[1].Length)
-                {
-                    Console.WriteLine("The first surname is longer than the second surname");
-                }
-                else
-                {
-                    Console.WriteLine("The second surname is longer than the first");
-                }
+                Console.WriteLine("Прізвища різної довжини");
             }
 
-
-            if (surnames[0][0] == surnames[1][0] && surnames[0][surnames[0].Length - 1] == surnames[1][surnames[1].Length - 1])
+            if (surnames[0][0] == surnames[1][0])
             {
-                Console.WriteLine("The first and the last letters in both strings are the same.");
+                Console.WriteLine("Перші букви прізвищ співпадають");
+            }
+            else 
+            {
+                Console.WriteLine("Перші букви прізвищ не співпадають");
+            }
+
+            if (surnames[0][surnames[0].Length - 1] == surnames[1][surnames[1].Length - 1])
+            {
+                Console.WriteLine("Останні букви прізвищ співпадають");
             }
             else
             {
-                Console.WriteLine("First or/and last characters in both strings are NOT the same.");
+                Console.WriteLine("Останні букви прізвищ не співпадають");
             }
         }
     }
