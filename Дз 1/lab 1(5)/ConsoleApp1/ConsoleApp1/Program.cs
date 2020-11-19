@@ -7,9 +7,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             float input;
+            float output;
             Console.Write("Введіть число: ");
             input = float.Parse(Console.ReadLine());
-            Console.WriteLine($"Integral part: {Math.Truncate(input)}. Rounded: {Math.Round(input)}.");     
+            output = input / 2;
+            Console.WriteLine("Округлене число: {0:0.00}", Math.Round(output, 2));   
         }
     }
 }
