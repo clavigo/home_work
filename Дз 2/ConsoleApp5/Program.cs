@@ -6,23 +6,22 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            string[] a;
+           string[] word;
 
-            Console.Write("Enter strings: ");
-            a = Console.ReadLine().Split( );
-            a = Console.ReadLine().Split( );
+            Console.Write("Введіть слова які потрібно посортувавти: ");
+            word = Console.ReadLine().Split();
 
-            Array.Sort(a, StringComparer.InvariantCultureIgnoreCase);
+            Array.Sort(word, StringComparer.InvariantCultureIgnoreCase);
 
-            for (int i = 0; i < a.Length; i++)
+            for (int i = 0; i < word.Length; i++)
             {
-                if (i != a.Length - 1)
+                if (i != word.Length - 1)
                 {
-                    Console.Write($"{a[i]}, ");
+                    Console.Write($"{word[i]}, ");
                 }
                 else
                 {
-                    Console.WriteLine($"{a[i]}.");
+                    Console.WriteLine($"{word[i]}.");
                 }
             }
         }
