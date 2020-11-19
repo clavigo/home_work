@@ -9,7 +9,6 @@ namespace ConsoleApp4
             string a = Console.ReadLine();
             string b = a.Replace("a", "u");
             Console.WriteLine(b);
-            Console.WriteLine(b);
         }
     }
 }
