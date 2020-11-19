@@ -9,7 +9,6 @@ namespace ConsoleApp1
             string str;
             str=Console.ReadLine();
             Console.WriteLine(str.ToLower());
-            Console.WriteLine(str.ToLower());
         }
     }
 }
