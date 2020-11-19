@@ -10,7 +10,7 @@ namespace ConsoleApp1
             string[] input;
             byte n;
 
-            Console.Write("Enter person's name, surname and age, separated by spaces: ");
+            Console.Write("Enter person's name, surname and age: ");
             input = Console.ReadLine().Split(' ');
 
             person = new Person(input[0], input[1], byte.Parse(input[2]));

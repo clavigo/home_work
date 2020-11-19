@@ -6,12 +6,17 @@ namespace ConsoleApp1
 {
     public enum Colors
     {
-        Red = 5,
-        Blue = 80,
-        Green = 48,
-        Yellow = 28,
-        Orange = 94,
-        Cyan = 10,
-        Black = 54,
+        Black = 244,
+        Brown = 793,
+        Gray = 725,
+        White = 435,
+        Yellow = 962,
+        Orange = 88,
+        Red = 41,
+        Pink = 54,
+        Purple = 732,
+        Black_velvet =100,
+        Blue = 981,
+        Green = 284,
     }
 }

@@ -4,17 +4,18 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    public static class Sorter
+    public static class SortColor
     {
-        public static void SortColors(this Colors color)
-        {          
-            int[] values = (int[])Enum.GetValues(color.GetType());
+        public static void Sorter(this Colors color)
+        {
+            
+            var values = (int[])Enum.GetValues(color.GetType());
 
             Array.Sort(values);
 
-            for (int i = 0; i < values.Length; i++)
+            foreach (var t in values)
             {
-                Console.WriteLine("",(Colors)values[i], values[i]);
+                Console.WriteLine($"{(Colors)t} = {t}");
             }
         }
     }

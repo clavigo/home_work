@@ -6,8 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Colors someColor = Colors.Red;
-            someColor.SortColors();
+            Colors someColor = Colors.Black;
+            someColor.Sorter();
         }
     }
+
 }
