@@ -1,0 +1,13 @@
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Univer\Epam\home_work\Дз 4\lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

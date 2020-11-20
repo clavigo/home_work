@@ -13,9 +13,6 @@ namespace ConsoleApp2
         public Rectangle(int x, int y) : base(x, y)
         {
 
-        }
-        
-
-        
+        }   
     }
 }

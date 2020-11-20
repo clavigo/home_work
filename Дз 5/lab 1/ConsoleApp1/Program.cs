@@ -10,12 +10,12 @@ namespace ConsoleApp1
             string[] input;
             byte n;
 
-            Console.Write("Enter person's name, surname and age: ");
+            Console.Write("Введіть ім'я людини, прізвище та вік: ");
             input = Console.ReadLine().Split(' ');
 
             person = new Person(input[0], input[1], byte.Parse(input[2]));
 
-            Console.Write("Enter random number N (N > 0): ");
+            Console.Write("Введіть свій вік: ");
             n = byte.Parse(Console.ReadLine());
 
             Console.WriteLine(person.isOlderThan(n));

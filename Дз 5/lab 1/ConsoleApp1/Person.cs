@@ -6,29 +6,29 @@ namespace ConsoleApp1
 {
     struct Person
     {
-        string _firstname, _lastname;
-        byte _age;
+        string Firstname, Lastname;
+        byte Age;
 
         public Person(string firstname, string lastname, byte age)
         {
-            _firstname = firstname;
-            _lastname = lastname;
-            _age = age;
+            Firstname = firstname;
+            Lastname = lastname;
+            Age = age;
         }
 
         public string isOlderThan(byte n)
         {
-            if (_age > n)
+            if (Age > n)
             {
-                return $"{_firstname} {_lastname} is older than {n}.";
+                return $"{Age}>{n}. {Firstname} {Lastname} старший за Вас.";
             }
-            else if (_age < n)
+            else if (Age < n)
             {
-                return $"{_firstname} {_lastname} is younger than {n}.";
+                return $"{Age}<{n}. {Firstname} {Lastname} молодший за Вас.";
             }
             else
             {
-                return $"{_firstname} {_lastname} is exactly {n} years old.";
+                return $"{Age}={n}. {Firstname} {Lastname} ваш одноліток.";
             }
         }
     }
