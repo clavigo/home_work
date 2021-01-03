@@ -16,7 +16,7 @@ namespace ConsoleApp1
             Age = age;
         }
 
-        public string isOlderThan(byte n)
+        public string isOlderThan(int n)
         {
             if (Age > n)
             {

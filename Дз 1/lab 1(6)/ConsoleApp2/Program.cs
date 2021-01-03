@@ -9,8 +9,8 @@ namespace ConsoleApp2
             float a, b;
             Console.Write("Ведіть число: ");
             a = float.Parse(Console.ReadLine());
-            b = (float)Math.Sqrt(Math.Ceiling(a));
-            Console.WriteLine($"Результат: {b}");
+            b = (float)Math.Sqrt(a);
+            Console.WriteLine($"Результат: " + b);
         }
     }
 }

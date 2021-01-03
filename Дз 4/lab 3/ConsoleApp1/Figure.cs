@@ -14,10 +14,10 @@ namespace ConsoleApp1
         readonly int x;
         readonly int y;
 
-        protected Figure(int X, int Y)
+        public Figure(int X, int Y)
         {
-            this.x = X;
-            this.y = Y;
+            x = X;
+            y = Y;
         }
     }
 }

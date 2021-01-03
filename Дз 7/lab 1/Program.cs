@@ -16,9 +16,9 @@ namespace lab_1
                 new Person() {Name="Рiкардо", Age = 26,PhoneNumbers = new List<string>{"+380693587656","+380615788788", "+380452355233" } },
                 new Person() {Name="Дмитрiй", Age = 8,PhoneNumbers = new List<string>{"+38062238890","+380329029388", "+380935890244" } }
             };
-            foreach (Person ThePerson in persons)
+            foreach (Person thePerson in persons)
             {
-                Console.WriteLine("Iм'я: " + ThePerson.Name + " | Вiк: " + ThePerson.Age);
+                Console.WriteLine("Iм'я: " + thePerson.Name + " | Вiк: " + thePerson.Age);
             }
             Console.ReadKey();
         }

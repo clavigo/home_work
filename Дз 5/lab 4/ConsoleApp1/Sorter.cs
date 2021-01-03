@@ -9,7 +9,7 @@ namespace ConsoleApp1
         public static void Sorter(this Colors color)
         {
             
-            var values = (int[])Enum.GetValues(color.GetType());
+            var values = (int[])Enum.GetValues(typeof(Colors));
 
             Array.Sort(values);
 

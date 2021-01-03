@@ -53,8 +53,7 @@ namespace lab_3
         }
         public static void DisplayPage(int NumOfPage)
         {
-            if (NumOfPage * 5 > strings.Count
-                || NumOfPage < 0)
+            if (NumOfPage * 5 > strings.Count|| NumOfPage < 0)
             {
                 Console.Write("Введіть іншу сторінку");
                 return;

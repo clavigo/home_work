@@ -6,7 +6,7 @@ namespace lab2
     {
         static void Main(string[] args)
         {
-            Console.Write("Введіть радіус кола: ");
+            Console.WriteLine("Введіть радіус кола: ");
             var radius = float.Parse(Console.ReadLine());
 
             Console.WriteLine($"Площа кола: {Circle.Area(radius)} \nДовжина кола: {Circle.Length(radius)}");

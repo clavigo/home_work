@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Univer\\Epam\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "D:\\Univer\\Epam\\home_work\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "D:\\Univer\\Epam\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "D:\\Univer\\Epam\\home_work\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Univer\\Epam\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "D:\\Univer\\Epam\\home_work\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "D:\\Univer\\Epam\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "D:\\Univer\\Epam\\home_work\\Дз 2\\ConsoleApp3\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Univer\\Epam\\Дз 2\\ConsoleApp3\\obj\\",
+        "outputPath": "D:\\Univer\\Epam\\home_work\\Дз 2\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

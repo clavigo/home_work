@@ -11,7 +11,7 @@ namespace ConsoleApp5
             Console.Write("Введіть слова які потрібно посортувавти: ");
             word = Console.ReadLine().Split();
 
-            Array.Sort(word, StringComparer.InvariantCultureIgnoreCase);
+            
 
             for (int i = 0; i < word.Length; i++)
             {
